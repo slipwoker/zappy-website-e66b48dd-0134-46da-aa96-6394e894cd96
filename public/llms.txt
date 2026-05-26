@@ -1,0 +1,60 @@
+# E-SPORTS מועדון ריצה — Generative Engine Optimization Map
+
+> E-SPORTS is a Tel Aviv-based running club led by Eran Shomron, celebrating a decade of activity with a warm, family-like atmosphere. The club trains in the early morning hours and brings together runners of all levels and abilities. Their motto — 'One training. One race. A whole life.' — reflects a deep sense of community and long-term commitment. Members compete together in local races and travel abroad twice a year, creating a tight-knit, cohesive team spirit that goes beyond sport.
+
+---
+
+## Pages
+
+### בית
+https://e-sports-e66b48dd.zappy5.app
+E-SPORTS is a Tel Aviv-based running club led by Eran Shomron, celebrating a decade of activity with a warm, family-like atmosphere. The club trains in the earl
+
+## Legal & Policy
+
+### Privacy Policy
+https://e-sports-e66b48dd.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://e-sports-e66b48dd.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://e-sports-e66b48dd.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About E-SPORTS מועדון ריצה
+E-SPORTS is a Tel Aviv-based running club led by Eran Shomron, celebrating a decade of activity with a warm, family-like atmosphere. The club trains in the early morning hours and brings together runners of all levels and abilities. Their motto — 'One training. One race. A whole life.' — reflects a deep sense of community and long-term commitment. Members compete together in local races and travel abroad twice a year, creating a tight-knit, cohesive team spirit that goes beyond sport.
+
+## Services/Products
+- אימוני ריצה בוקר בתל אביב
+- השתתפות בתחרויות בארץ
+- תחרויות בחו"ל פעמיים בשנה
+
+## Target Audience
+- רצים בכל הרמות, אנשים המחפשים קהילה ספורטיבית משפחתית
+- רצים בכל הרמות
+- קהילה ספורטיבית משפחתית
+- צעירים מודעים לבריאות
+
+## Industry
+Sports & Fitness
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://e-sports-e66b48dd.zappy5.app/sitemap.xml
+- Robots: https://e-sports-e66b48dd.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://e-sports-e66b48dd.zappy5.app/llms-full.txt
