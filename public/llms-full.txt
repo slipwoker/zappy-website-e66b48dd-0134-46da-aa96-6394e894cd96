@@ -2,13 +2,13 @@
 
 E-SPORTS is a Tel Aviv-based running club led by Eran Shomron, celebrating a decade of activity with a warm, family-like atmosphere. The club trains in the early morning hours and brings together runners of all levels and abilities. Their motto — 'One training. One race. A whole life.' — reflects a deep sense of community and long-term commitment. Members compete together in local races and travel abroad twice a year, creating a tight-knit, cohesive team spirit that goes beyond sport.
 
-Source: https://e-sports-e66b48dd.zappy5.app
+Source: https://example.com
 
 ---
 
 ## sports &amp; fitness — E-SPORTS מועדון ריצה
 
-URL: https://e-sports-e66b48dd.zappy5.app
+URL: https://example.com
 Description: E-SPORTS is a Tel Aviv-based running club led by Eran Shomron, celebrating a decade of activity with a warm, family-like atmosphere. The club trains in the earl
 
 sports & fitness — E-SPORTS מועדון ריצה
@@ -683,7 +683,7 @@ E-SPORTS · עשור של ריצה
 
 ## מדיניות פרטיות
 
-URL: https://e-sports-e66b48dd.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -952,7 +952,7 @@ E-SPORTS מועדון ריצה ("החברה", "אנו", "שלנו") מחויבת
 
 ## הצהרת נגישות
 
-URL: https://e-sports-e66b48dd.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1230,7 +1230,7 @@ E-SPORTS מועדון ריצה מחויבת להנגיש את השירותים �
 
 ## תנאי שימוש
 
-URL: https://e-sports-e66b48dd.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

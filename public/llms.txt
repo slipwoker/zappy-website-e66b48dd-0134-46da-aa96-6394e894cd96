@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://e-sports-e66b48dd.zappy5.app
+https://example.com
 E-SPORTS is a Tel Aviv-based running club led by Eran Shomron, celebrating a decade of activity with a warm, family-like atmosphere. The club trains in the earl
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://e-sports-e66b48dd.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://e-sports-e66b48dd.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://e-sports-e66b48dd.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -55,6 +55,6 @@ Sports & Fitness
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://e-sports-e66b48dd.zappy5.app/sitemap.xml
-- Robots: https://e-sports-e66b48dd.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://e-sports-e66b48dd.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
