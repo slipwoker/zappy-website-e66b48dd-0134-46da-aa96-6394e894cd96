@@ -5092,6 +5092,24 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+.index-features-section .index-features-trial-btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 14px 32px;
+  background: var(--primary, var(--primary-color, var(--primary, #2563EB)));
+  color: #ffffff !important;
+  font-weight: 700;
+  font-size: 1rem;
+  border-radius: var(--radius-btn, 8px);
+  text-decoration: none;
+  transition: var(--transition-hover, all 0.2s ease);
+}
+
+.index-features-section .index-features-trial-btn:hover {
+  background: var(--secondary, var(--secondary-color, var(--secondary, #F97360)));
+  color: #ffffff !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
