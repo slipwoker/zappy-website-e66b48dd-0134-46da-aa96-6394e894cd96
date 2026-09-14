@@ -5110,6 +5110,63 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   background: var(--secondary, var(--secondary-color, var(--secondary, #F97360)));
   color: #ffffff !important;
 }
+
+.index-features-section .index-features-body {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: right;
+}
+
+.index-features-section .index-features-intro {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--text-dark);
+  margin: 0 0 4px;
+}
+
+.index-features-section .index-features-cont {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--text-dark);
+  margin: 24px 0 4px;
+  font-weight: 700;
+}
+
+.index-features-section .index-features-list {
+  list-style: none;
+  padding: 0;
+  margin: 16px 0;
+}
+
+.index-features-section .index-features-list li {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--text-muted);
+  padding-right: 28px;
+  position: relative;
+  margin-bottom: 12px;
+}
+
+.index-features-section .index-features-list li::before {
+  content: '✓';
+  position: absolute;
+  right: 0;
+  top: 0;
+  color: var(--primary);
+  font-weight: 700;
+}
+
+.index-features-section .index-features-closing {
+  font-size: 1.15rem;
+  line-height: 1.8;
+  color: var(--text-dark);
+  font-weight: 700;
+  margin-top: 32px;
+}
+
+.index-features-section .index-features-header {
+  margin-bottom: 40px;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
