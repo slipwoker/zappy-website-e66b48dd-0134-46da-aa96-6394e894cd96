@@ -5167,6 +5167,57 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .index-features-section .index-features-header {
   margin-bottom: 40px;
 }
+
+.index-testimonials-section .index-fit-body {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: right;
+}
+
+.index-testimonials-section .index-fit-list {
+  list-style: none;
+  padding: 0;
+  margin: 16px 0 24px;
+}
+
+.index-testimonials-section .index-fit-list li {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--text-muted);
+  padding-right: 28px;
+  position: relative;
+  margin-bottom: 12px;
+}
+
+.index-testimonials-section .index-fit-list li::before {
+  content: '✕';
+  position: absolute;
+  right: 0;
+  top: 0;
+  color: var(--secondary);
+  font-weight: 700;
+}
+
+.index-testimonials-section .index-fit-paragraph {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--text-dark);
+  margin: 0 0 4px;
+}
+
+.index-testimonials-section .index-fit-final {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-top: 28px;
+  line-height: 1.9;
+}
+
+.index-testimonials-section .index-testimonials-header {
+  margin-bottom: 36px;
+}
+/* zappy-self-heal */
+.index-testimonials-section .index-fit-paragraph { margin: 0 0 4px !important; }
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
