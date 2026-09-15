@@ -5219,6 +5219,35 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 /* zappy-self-heal */
 .index-testimonials-section .index-fit-paragraph { margin: 0 0 4px !important; }
 
+
+.index-hero-section .index-hero-content .index-hero-headline {
+  font-size: clamp(3.4rem, 8.5vw, 6.2rem) !important;
+  font-weight: 900 !important;
+  text-shadow: 0 6px 30px rgba(0,0,0,0.8), 0 0 45px rgba(0,0,0,0.55) !important;
+}
+
+.index-hero-section .index-hero-content .index-hero-headline-sub {
+  font-size: clamp(2.2rem, 5.5vw, 4rem) !important;
+  font-weight: 800 !important;
+  text-shadow: 0 6px 28px rgba(0,0,0,0.75) !important;
+}
+
+.index-hero-section .index-hero-content .index-hero-subheading {
+  font-size: 1.6rem !important;
+  font-weight: 700 !important;
+  color: #ffffff !important;
+  text-shadow: 0 3px 16px rgba(0,0,0,0.7) !important;
+}
+
+.index-hero-section .index-hero-content .index-hero-body {
+  font-size: 1.1rem !important;
+  color: #ffffff !important;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.7) !important;
+}
+
+.index-hero-section .index-hero-scrim {
+  background-image: linear-gradient(to top, rgba(8, 14, 32, 0.96) 0%, rgba(8, 14, 32, 0.88) 45%, rgba(8, 14, 32, 0.62) 70%, rgba(8, 14, 32, 0.38) 100%), linear-gradient(135deg, rgba(26, 58, 107, 0.5) 0%, transparent 60%) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
