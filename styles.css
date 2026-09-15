@@ -2598,10 +2598,11 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .index-hero-section .index-hero-headline-sub {
-  font-size: clamp(1.8rem, 4.5vw, 3.2rem);
-  font-weight: 700;
+  font-size: clamp(2.2rem, 5.5vw, 4rem);
+  font-weight: 800;
   color: var(--text-light) !important;
   letter-spacing: -0.01em;
+  text-shadow: 0 6px 28px rgba(0,0,0,0.7);
 }
 
 /* Orange accent line */
