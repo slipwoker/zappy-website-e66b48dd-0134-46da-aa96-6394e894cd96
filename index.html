@@ -1515,10 +1515,24 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     <h2 class="index-cta-headline">מוכן להצטרף למשפחה?</h2>
     <div class="index-cta-accent-line" aria-hidden="true"></div>
     <p class="index-cta-subtext"><br>הצטרף לקבוצת הריצה המובילה בתל אביב — בכל רמה, בכל גיל.</p>
-    <div class="index-cta-actions">
-      <a href="#contact" class="index-cta-btn-primary" data-element-type="button" data-element-id="btn-1779807137682-8p7holulw" data-native-element="true" style="outline: none; border-color: rgb(26, 90, 232) !important; color: rgb(255, 255, 255) !important; background-color: rgb(26, 90, 232) !important; background-image: none !important;">הצטרף עכשיו</a>
-      
-    </div>
+    <div class="index-cta-actions"><form class="index-cta-form" id="lead-form" dir="rtl">
+  <div class="index-cta-form-row">
+    <input type="text" name="name" placeholder="שם מלא" required="" aria-label="שם מלא">
+    <input type="tel" name="phone" placeholder="טלפון" required="" aria-label="טלפון">
+  </div>
+  <div class="index-cta-form-row">
+    <input type="email" name="email" placeholder="אימייל" aria-label="אימייל">
+    <select name="interest" aria-label="תחום עניין">
+      <option value="" disabled="" selected="">מה מעניין אותך?</option>
+      <option value="הצטרפות למועדון">הצטרפות למועדון</option>
+      <option value="אימון ניסיון">אימון ניסיון</option>
+      <option value="מידע כללי">מידע כללי</option>
+    </select>
+  </div>
+  <textarea name="message" placeholder="רוצה לספר לנו משהו? (אופציונלי)" rows="3" aria-label="הודעה"></textarea>
+  <button type="submit" class="index-cta-btn-primary" data-element-type="button">שליחת הפרטים</button>
+  <p class="index-cta-form-note">נחזור אליכם בהקדם — בדרך כלל תוך יום עבודה.</p>
+</form></div>
     <div class="index-cta-stats">
       <div class="index-cta-stat">
         <span class="index-cta-stat-number">10+</span>

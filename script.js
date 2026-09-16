@@ -1084,7 +1084,44 @@ window.onload = function() {
             initContactForm();
         }
     })(); // End of IIFE
-    
+
+/* ZAPPY_CUSTOM_JS_START:922b2e8c4809 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function () {
+  var form = document.getElementById('lead-form');
+  if (!form) return;
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var name = (form.querySelector('[name="name"]') || {}).value || '';
+    var phone = (form.querySelector('[name="phone"]') || {}).value || '';
+    var email = (form.querySelector('[name="email"]') || {}).value || '';
+    var interest = (form.querySelector('[name="interest"]') || {}).value || '';
+    var message = (form.querySelector('[name="message"]') || {}).value || '';
+    var lines = ['פנייה חדשה מאתר E-SPORTS', 'שם: ' + name, 'טלפון: ' + phone, 'אימייל: ' + email, 'תחום עניין: ' + interest, 'הודעה: ' + message];
+    var text = lines.join('\n');
+    var note = form.querySelector('.index-cta-form-note');
+    var num = '972505912360';
+    var wa = 'https://wa.me/' + num + '?text=' + encodeURIComponent(text);
+    window.location.href = wa;
+    if (note) {
+      note.textContent = 'תודה! מעבירים אותך לוואטסאפ להשלמת הפנייה…';
+      note.style.color = '#16a34a';
+    }
+  });
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:922b2e8c4809 */
 
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
